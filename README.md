@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ayoboyede Adebesin</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoboyedee" alt="ayoboyedee" /></a> </p>
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **backend web dev with Python**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
